@@ -2,7 +2,7 @@
 title: 20 Boho Digital Goodnotes Cover
 date: 2021-12-30T19:31:16+00:00
 description: For Goodnotes and other similar apps
-price: "$1.65"
+price: "1.65"
 priceBefore: ''
 shortDescription: Switch your boring digital notebook covers with a variety of Chic
   boho colors with a minimalist look of Floral designs.
