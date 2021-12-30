@@ -1,10 +1,9 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Best Beauty Cream For Your Skin"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed dia"
-  image : "images/banner.png"
+  title : "Digital Goodnotes Cover"
+  content : "Covers for goodnotes and other similar apps"
+  image : "images/1.png"
   # button
   button:
     enable : true
