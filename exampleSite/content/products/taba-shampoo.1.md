@@ -1,35 +1,43 @@
 ---
-title: "Taba Shampoo"
-date: 2019-10-17T11:22:16+06:00
-draft: false
-
-# meta description
-description : "For Silky Hair"
-
-# product Price
-price: "30.00"
-priceBefore: ""
-
-# Product Short Description
-shortDescription: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut"
-
-#product ID
+title: 20 Boho Digital Goodnotes Cover
+date: 2021-12-30T19:31:16+00:00
+description: For Goodnotes and other similar apps
+price: ''
+priceBefore: ''
+shortDescription: ''
 productID: "7"
-
-# type must be "products"
-type: "products"
-
-# product Images
-# first image will be shown in the product page
 images:
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-5.png"
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-4.png"
+- image: "/uploads/1.png"
+
 ---
+Buy Now: [https://www.etsy.com/listing/1025897455/20-boho-digital-cover-goodnotes-cover?click_key=ab2e22b96dfb2dfacbd8c72d72728fc21b9f7879%3A1025897455&click_sum=90245a13&ref=shop_home_active_15&pro=1](https://www.etsy.com/listing/1025897455/20-boho-digital-cover-goodnotes-cover?click_key=ab2e22b96dfb2dfacbd8c72d72728fc21b9f7879%3A1025897455&click_sum=90245a13&ref=shop_home_active_15&pro=1 "20 Boho Goodnotes Covers")
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea 
+20 Boho Digital cover, Goodnotes cover template, Notebook Cover, Digital Planner Covers, Notability, Instant Download
 
-takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+Switch your boring digital notebook covers with a variety of Chic boho colors with a minimalist look of Floral designs.
 
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+20 Digital Notebook Cover, Goodnotes Digital Notebook Cover, Notability Notebook Covers.
+
+This DIGITAL DOWNLOAD includes:
+
+\- 4 Zip Files 
+
+\- 20 PNG notebook covers for apps like Goodnotes (any note app you prefer)
+
+\- 6 PNG of Plain Cover
+
+\- 6 PNG of Box Grid Cover
+
+\- 8 PNG of Floral Designs.
+
+FREEBIES: 
+
+\- 18 PNG of soft boho stickers in 3 different designs each in 6 colors.
+
+Files are available immediately for download and use.
+
+Digital file only!
+
+Once your order is finalized and processed, the files will be available to download. If you are a guest, a link will be sent to the email submitted with the order. If you are signed in, they will be available through your purchases options.
+
+Once downloaded you can import them to your iPad through photos or files.
