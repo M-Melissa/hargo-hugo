@@ -81,24 +81,24 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = ""
 home = "Home"
 # Meta data
 description = "This is meta description"
-author = "Themefisher"
+author = ""
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
-mapMarker = "images/marker.png"
+mapMarker = #"images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+91-7000028174"
+email = "artbymelissa.2021@email.com"
+location = "India"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2019 Themefisher All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
@@ -116,25 +116,25 @@ currencySymbol = "$"
   publicKey = "811cf0927332bf51f2e12f84608594ac"
 
   # Social Site
-  [[params.social]]
-  icon = "ti-facebook"
-  link = "#"
+ # [[params.social]]
+ # icon = "ti-facebook"
+  #link = "#"
 
-  [[params.social]]
-  icon = "ti-twitter-alt"
-  link = "#"
+  #[[params.social]]
+  #icon = "ti-twitter-alt"
+ # link = "#"
 
   [[params.social]]
   icon = "ti-youtube"
-  link = "#"
+  link = "https://www.youtube.com/channel/UCMZc9fjT82dWNAfzvCydmmg"
 
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://www.instagram.com/melissa.art.creation/"
 
   [[params.social]]
   icon = "ti-pinterest"
-  link = "#"
+  link = "https://in.pinterest.com/artbymelissa2021/_created/"
 
   # Contact Form
   [params.contact]
