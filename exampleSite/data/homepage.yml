@@ -21,7 +21,7 @@ about:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
           dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
           clita kasd gubergren,"
-  image : "images/1.png"
+  image : "https://github.com/M-Melissa/hargo-hugo/blob/8f6ee37204c770f549902fa6c3ad206b0bce7892/images/1.png"
 
 
 ###################### Call to action ########################
