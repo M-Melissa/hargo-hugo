@@ -50,7 +50,7 @@
   <div class="container">
     <div class="row justify-content-around align-items-center">
       <div class="col-lg-5 col-md-6">
-        <img class="img-fluid" src="image/1.png" alt="">
+        <img class="img-fluid" src="{{ .image | absURL }}" alt="">
       </div>
       <div class="col-md-6 col-lg-5">
         <h2>{{ .title | markdownify }}</h2>
