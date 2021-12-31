@@ -92,7 +92,7 @@ mapLatitude = "51.5223477"
 mapLongitude = "-0.1622023"
 mapMarker = "images/marker.png"
 # Google Analitycs
-googleAnalitycsID = "" # Your ID
+googleAnalitycsID = "UA-202766539-2" # Your ID
 # Contact Information
 mobile = "+91-7000028174"
 email = "artbymelissa.2021@email.com"
