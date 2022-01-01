@@ -56,17 +56,17 @@ cta:
 ########################### Advantage #########################
 advantage:
   enable : true
-  title : "Advantages Of Using <br> Our Product"
-  subtitle : "Lorem ipsum dolor sit amet, da decal consetetur<br> sadipscing elitr, sed diam nonumya eirmod"
+  title : "Switch boring covers with <br> Our Products"
+  subtitle : "Digital Goodnotes Covers,<br> Printable Stationery and, Much More"
   image : "images/advantage.png"
   advantageList:
     # advantage list loop
-    - listItem : "Extremely lightweight"
-    - listItem : "Excellent breathability"
-    - listItem : "Can increase Cell activation"
-    - listItem : "Glowing Skin In 7 Days"
-    - listItem : "Increasing Glow Of Face"
-    - listItem : "More Beautiful Face Skin"
+    - listItem : "Cute Boho Style"
+    - listItem : "Mandala Themed"
+    - listItem : "Classic plain"
+    - listItem : "Floral Stationery paper "
+    - listItem : "Color and Write stationery"
+    - listItem : "Black and White Stationery"
 
 
 ######################## Promo Video ##########################
