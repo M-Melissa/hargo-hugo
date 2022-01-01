@@ -170,7 +170,7 @@
       {{ range first 6 (where site.RegularPages "Type" "products") }}
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card border-0 text-center">
-          <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg">
+          <a href="{{ .Permalink }}">
             {{ range first 1 .Params.Images }}
             <img src="{{ .image | absURL }}" alt="{{ .Title }}" class="card-img-top">
             {{ end }}
@@ -188,7 +188,7 @@
             <button class="btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
-              Add to cart
+              Buy Now
             </button>
             </a>
           </div>
