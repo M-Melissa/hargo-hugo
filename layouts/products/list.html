@@ -21,11 +21,13 @@
               <s>{{ site.Params.currencySymbol }}{{ .Params.PriceBefore }}</s>
               {{ end }}
               <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
-             <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+              <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg">
+             <button class=" btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
-              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Params.linkto }}" data-item-description="{{ .Description }}">
+              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
               Buy Now
             </button>
+              </a>
           </div>
         </div>
       </div>
