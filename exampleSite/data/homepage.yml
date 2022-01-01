@@ -1,8 +1,8 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Digital Goodnotes Cover"
-  content : "Covers for goodnotes and other similar apps"
+  title : "Digital Goodnotes Cover | Printable Stationery"
+  content : "Digital Goodnotes Covers for goodnotes and other similar apps"
   image : "images/banner.png"
   # button
   button:
