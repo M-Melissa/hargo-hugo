@@ -27,7 +27,9 @@
       </div>
       {{ end }}
         </div>
-            <button  onclick="https://www.etsy.com/shop/MelissaArtCreation" >
+           <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink.linkto }}" data-item-description="{{ .Description }}">
               Buy Now
             </button>
     </div>
