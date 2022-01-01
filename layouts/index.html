@@ -183,11 +183,11 @@
               {{ end }}
               <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
             </div>
-             <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg">
-           <button class=" btn-sm btn-outline-primary" > Buy
-            </button>
-            {{ end }}
-             </a>
+             {{ if .button.enable }}
+        {{ with .button }}
+        <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg" class="btn btn-primary mr-3">buy</a>
+        {{ end }}
+        {{ end }}
  
              
           </div>
