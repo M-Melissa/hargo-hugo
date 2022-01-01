@@ -15,11 +15,10 @@ banner:
 ########################## About ##############################
 about:
   enable : true
-  title : "About Our Product"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et
-          dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet
-          clita kasd gubergren,"
-  image : "images/about.png"
+  title : "About Our Products"
+  content : "Digital Goodnotes Covers for Goodnotes app and similar apps and, 
+              Printable stationery perfect for letter writing, journal, planners, notes, and much more"
+  image : "images/about.png" 
 
 
 ###################### Call to action ########################
