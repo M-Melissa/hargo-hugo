@@ -10,9 +10,8 @@ productID: "7"
 images:
 - image: "/uploads/1.png"
 - image: "/uploads/2.png"
-linkto: "https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg"
+
 ---
-Buy Now: [https://www.etsy.com/listing/1025897455/20-boho-digital-cover-goodnotes-cover?click_key=ab2e22b96dfb2dfacbd8c72d72728fc21b9f7879%3A1025897455&click_sum=90245a13&ref=shop_home_active_15&pro=1](https://www.etsy.com/listing/1025897455/20-boho-digital-cover-goodnotes-cover?click_key=ab2e22b96dfb2dfacbd8c72d72728fc21b9f7879%3A1025897455&click_sum=90245a13&ref=shop_home_active_15&pro=1 "20 Boho Goodnotes Covers")
 
 20 Boho Digital cover, Goodnotes cover template, Notebook Cover, Digital Planner Covers, Notability, Instant Download
 
