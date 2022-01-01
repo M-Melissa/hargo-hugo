@@ -30,7 +30,7 @@ cta:
   overlayImage : "images/cta-overlay.png"
   button:
     label : "Shop"
-    link : "https://www.etsy.com/your/shops/MelissaArtCreation"
+    link : "https://www.etsy.com/shops/MelissaArtCreation"
 
 ######################## raw material #######################
 # material:
