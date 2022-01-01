@@ -156,7 +156,8 @@
 {{ end }}
 <!-- /promo video -->
 
-<!-- products -->
+
+              <!-- products -->
 {{ if site.Data.homepage.products.enable }}
 <section class="section pb-0">
   <div class="container">
@@ -169,13 +170,13 @@
       {{ range first 6 (where site.RegularPages "Type" "products") }}
       <div class="col-lg-4 col-sm-6 mb-4">
         <div class="card border-0 text-center">
-          <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg">
+          <a href="{{ .Permalink }}">
             {{ range first 1 .Params.Images }}
             <img src="{{ .image | absURL }}" alt="{{ .Title }}" class="card-img-top">
             {{ end }}
           </a>
           <div class="card-body">
-            <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg" class="h4">{{ .Title }}</a>
+            <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
             <p>{{ .Params.Description }}</p>
             <div class="mb-4">
               {{ if .Params.PriceBefore }}
@@ -183,13 +184,11 @@
               {{ end }}
               <span class="lead text-primary">{{ site.Params.currencySymbol }}{{ .Params.Price }}</span>
             </div>
-             {{ if .button.enable }}
-        {{ with .button }}
-        <a href="https://www.etsy.com/shop/MelissaArtCreation?ref=shop_sugg" class="btn btn-primary mr-3">buy</a>
-        {{ end }}
-        {{ end }}
- 
-             
+            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}" data-item-description="{{ .Description }}">
+              Add to cart
+            </button>
           </div>
         </div>
       </div>
@@ -199,7 +198,6 @@
 </section>
 {{ end }}
 <!-- /products -->
-
 <!-- testimonial -->
 {{ if site.Data.homepage.testimonial.enable }}
 {{ with site.Data.homepage.testimonial }}
