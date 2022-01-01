@@ -2,8 +2,7 @@
 baseURL = "https://examplesite.com"
 languageCode = "en"
 title = "Melissa Art Creation|Digital goodnotes Covers|Goodnotes cover|Digital Covers|Printable Stationery"
-theme = "Melissa Art Creation design a aesthetic goodnotes digital covers for goodnotes apps and similar to make your boring covers
-look aestheic and printable stationery for writing letters, notes, and journals"
+theme = "Melissa Art Creation design a aesthetic goodnotes digital covers for goodnotes apps and similar to make your boring covers look aestheic and printable stationery for writing letters, notes, and journals"
 summaryLength = "20"
 paginate = 10
 disqusShortname = "Melissa"
